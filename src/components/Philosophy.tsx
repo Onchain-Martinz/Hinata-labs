@@ -9,7 +9,7 @@ const lines = [
 
 export default function Philosophy() {
   return (
-    <section className="py-24 md:py-32 px-6 md:px-20">
+    <section className="py-16 md:py-20 px-6 md:px-20">
       <div className="max-w-6xl mx-auto text-center">
         <FadeIn>
           <p className="text-xs uppercase tracking-[0.2em] text-white/30 font-medium mb-6">

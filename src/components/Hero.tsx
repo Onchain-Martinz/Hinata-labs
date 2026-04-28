@@ -44,9 +44,9 @@ export default function Hero() {
           {...fadeUp(0.35)}
           className="text-base md:text-lg text-white/45 leading-relaxed max-w-xl mx-auto mb-10"
         >
-          Hinata Labs is a Web3 product and growth studio focused on building
-          software tools, enabling partnerships, and helping ecosystems scale
-          with clarity and efficiency.
+          Hinata Labs is a Web3 product and growth studio. We build software
+          tools, drive ecosystem growth, and form strategic partnerships that
+          help projects scale.
         </motion.p>
 
         <motion.div

@@ -5,7 +5,7 @@ const items = [
     title: "Limitless Analytics Dashboard",
     paragraphs: [
       "Designed and developed a full analytics dashboard to track user behavior, incentives, and volume patterns.",
-      "Revealed key insights about incentive-driven activity and built a data foundation for further automation and strategy.",
+      "Provided insights into user behavior and incentive-driven activity, enabling better growth and strategy decisions.",
     ],
   },
   {
@@ -23,7 +23,7 @@ const items = [
   {
     title: "Growth & Marketing",
     paragraphs: [
-      "Contributed to marketing and growth strategies across DeFi and RWA platforms, focusing on positioning, campaigns, and user engagement.",
+      "Led and contributed to growth campaigns and positioning across DeFi and RWA platforms, improving user acquisition and project visibility.",
     ],
   },
 ];
@@ -34,13 +34,13 @@ export default function Work() {
       <div className="max-w-6xl mx-auto">
         <FadeIn>
           <p className="text-xs uppercase tracking-[0.2em] text-white/30 font-medium mb-6">
-            Work
+            Selected Work
           </p>
         </FadeIn>
 
         <FadeIn delay={0.1}>
           <h2 className="text-3xl md:text-4xl font-semibold tracking-tight text-white mb-16">
-            Selected Work &amp; Experience
+            Selected Work &amp; Contributions
           </h2>
         </FadeIn>
 
